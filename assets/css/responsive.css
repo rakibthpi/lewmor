@@ -1,0 +1,526 @@
+@media all and (max-width:1140px){
+	.row.social-fix {
+	  width: 100%;
+	}
+	.fat-nav li, .fat-nav li a {
+		font-size: 18px !important;
+		padding: 0px 8px;
+	}
+}
+
+@media all and (max-width:1200px){
+	.portfolio-left h6 {
+		width: 80%;
+	}
+	.seo-img img {
+		width: 99%;
+		height: auto;
+	}
+	.single-caro img {
+		width: 100%;
+		max-height: 100%;
+		height: 100%;
+	}
+	.pt-img img {
+		width: 80%;
+	}
+	.bt-pd {
+		padding-bottom: 72px;
+	}
+}
+
+@media all and (max-width:991px){
+	.fat-nav ul {
+		flex-direction: column;
+	}
+	.fat-nav li, .fat-nav li a {
+		font-size: 28px !important;
+		padding: 2px 8px;
+	}
+
+	.digital-m-ar {
+		padding-right: 15px;
+	}
+	.digital-m-ar-2 {
+		padding-left: 15px;
+	}
+	.banner-area{
+		background-size: cover;
+		padding-top: 200px;
+		padding-bottom: 200px;
+	}
+	.banner-content h3{
+		font-size: 45px;
+	}
+	.media-content h2{
+		font-size: 45px;
+	}
+	.media-content h4 {
+		font-size: 26px;
+		line-height: 35px;
+	}
+	.digital-left h3 {
+		font-size: 26px;
+	}
+	.digital-left h5 {
+		font-size: 16px;
+		width: 100%;
+	}
+	.digita-mar-area {
+		padding: 60px 0px;
+	}
+	.digital-btm-right h3 {
+		font-size: 30px;
+	}
+	.digital-btm-right h5 {
+		width: 100%;
+		line-height: 23px;
+		font-size: 17px;
+	}
+	.digital-btm-right {
+		margin-top: 20px;
+	}
+	.partner-content h3 {
+		width: 100%;
+	}
+
+	.contact-area {
+		padding-top: 30px;
+		padding-bottom: 35px;
+	}
+	.heading {
+		text-align: center;
+		padding-bottom: 15px;
+	}
+	.heading h3 {
+		font-size: 50px;
+	}
+	.checkbox-test p {
+		width: 60%;
+	}
+	#back-to-top {
+		right: 43px;
+	}
+	.digital-area {
+		padding: 32px 0px;	
+	}
+	.social-m-left {
+		margin-top: 40px;
+	}
+	.digital-content h5 {
+		font-size: 24px;
+		margin-top: 8px;
+	}
+	.read-to-area {
+		background: #EDB41F;
+		padding: 35px;
+	}
+	.web-design h3 {
+		width: 90%;	
+	}
+	.digital-content h5 {
+		font-size: 24px;
+		margin-top: 8px;
+		line-height: 32px;
+	}
+	.digital-content h3 {
+		width: 100%;
+		line-height: 45px;
+	}
+
+	.port-tt h3 {
+		font-size: 30px;
+	}
+	/*.seo-img img {
+		width: 80%;
+		height: auto;
+	}*/
+	.seo-img img {
+		width: 145px;
+		height: 110px;
+	}
+	.social-m-left {
+		height: 95%;
+	}
+
+}
+
+@media all and (max-width:767px){
+	.seo-img img {
+		width: 145px;
+		height: 110px;
+	}
+	.banner-content h3{
+		font-size: 30px;
+	}
+	.digital-right {
+		width: 100%;
+		margin-top: 50px;
+	}
+	.digital-btm-left {
+		width: 100%;
+		padding-top: 7%;
+	}
+	.digital-btm-right {
+		margin-top: 68px;
+	}
+	.partner-content h3 {
+		width: 100%;
+		line-height: 42px;
+		font-size: 36px;
+	}
+	.amozon-logo ul li a img {
+		width: 80%;
+		height: auto;
+	}
+	.amozon-logo {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.social-icon-logo ul li a img {
+		width: 45px;
+		height: auto;
+	}
+	.checkbox-test p {
+		width: 100%;
+	}
+	.our-seo-area {
+		padding-top: 39px;
+		padding-bottom: 39px;
+	}
+	.seo-con.heading h3 {
+		text-align: center;
+		font-size: 40px;
+	}
+	.heading h3 {
+		font-size: 40px;
+		text-align: center;
+	}
+	.read-to-area {
+		padding: 25px;
+	}
+	.partner-content h3 {
+		line-height: 35px;
+		font-size: 29px;
+	}
+	.digital-content h3 {
+		width: 100%;
+		line-height: 30px;
+		font-size: 30px;
+	}
+	.digital-content h5 {
+		line-height: 30px;
+	}
+
+}
+
+@media all and (max-width:575px){
+	.banner-content h3{
+		font-size: 19px;
+	}
+	.banner-area {
+		background-size: cover;
+		padding-top: 150px;
+		padding-bottom: 150px;
+	}
+	.social-icon {
+		position: absolute;
+		bottom: 10px;
+		right: 25px;
+	}
+	.menu ul {
+		top: 26%;
+	}
+	.media-content h4 {
+		font-size: 19px;
+		line-height: 28px;
+		width: 100%;
+	}
+	.digita-bottom-area:before {
+		background-size: cover;
+	}
+	.digita-bottom-area {
+		padding-bottom: 40px;
+	}
+	.partner-content h3 {
+		width: 100%;
+		line-height: 30px;
+		font-size: 28px;
+	}
+	.social-icon-logo ul li a img {
+		width: 35px;
+		height: auto;
+	}
+	#back-to-top {
+		right: 20px;
+	}
+	.footer-area {
+		padding-top: 106px;
+		padding-bottom: 45px;
+	}
+	.footer-area:before {
+		top: 70px;
+	}
+	.digital-content h3 {
+		width: 100%;
+		line-height: 30px;
+		font-size: 30px;
+	}
+	.digital-content h5 {
+		font-size: 17px;
+		margin-top: 8px;
+		line-height: 23px;
+		width: 100%;
+	}
+		.top-fixed {
+		padding: 10px 20px;
+	}
+	.social-media-area {
+		padding-top: 18px;
+	}
+	.heading {
+		padding-bottom: 0px;
+	}
+	.heading h3 {
+		font-size: 35px;
+	}
+	.u-s-left {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 85%;
+		        flex: 0 0 85%;
+		 margin-left: 0px; 
+		margin-bottom: 50px;
+		margin: 0 auto
+	}
+	.social-m-left h4 {
+		padding: 25px 0px;
+	}
+	.u-s-right {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 100%;
+		        flex: 0 0 100%;
+		margin-top: 50px;
+	}
+	.u-s-right p {
+		font-size: 15px;
+		line-height: 21px;
+		padding: 0px 22px;
+	}
+	.under-s-img-main {
+		padding-bottom: 25px;
+	}
+	.partner-content h3 {
+		line-height: 27px;
+		font-size: 22px;
+	}
+	.seo-img {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 40%;
+		        flex: 0 0 40%;
+		margin: 0 auto;
+	}
+	.seo-con.heading h3 {
+		font-size: 35px;
+		margin-bottom: 30px;
+	}
+	.seo-content {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 95%;
+		        flex: 0 0 95%;
+		margin: 0 auto;
+	}
+	.seo-content h6 {
+		width: 100%;
+	}
+	.seo-btm {
+		margin-top: 0px;
+	}
+	.heading h3 {
+		margin-bottom: 30px;
+	}
+	.paid-con {
+		padding-left: 0;
+	}
+	.discover-right {
+		-webkit-box-ordinal-group: 0;
+		    -ms-flex-order: -1;
+		        order: -1;
+		margin-bottom: 10px;
+	}
+	.partner-content h3 {
+		text-align: center;
+	}
+	.discover-left {
+		margin-bottom: 30px;
+	}
+	.seo-img img {
+		width: 100%;
+		height: auto;
+	}
+	.port-tt h3 {
+		font-size: 18px;
+		line-height: 25px;
+	}
+	.portfolio-left h6 {
+		font-size: 15px;
+		line-height: 21px;
+	}
+	.portt-con h3 {
+		font-size: 32px !important;
+	}
+	.port-content-btm h6 {
+		font-size: 16px;
+	}
+	.social-m-left {
+		height: 98%;
+	}
+	.hamburger {
+		top: 21px;
+		right: 21px;
+	}
+	.fat-nav ul {
+		top: 25%;
+	}
+	.fat-nav li, .fat-nav li a {
+		font-size: 16px !important;
+		padding: 3px 7px;
+	}
+
+}
+
+@media all and (max-width:413px){
+	.logo img {
+		width: 70px;
+		height: auto;
+	}
+	.nav-icon img {
+		width: 55px;
+		height: auto;
+	}
+	.responsive-menu {
+		position: absolute;
+		top: 20px;
+		right: 30px;
+	}
+	.menu ul {
+		top: 26%;
+	}
+	.media-content h2 {
+		font-size: 35px;
+	}
+	.media-content h4 {
+		font-size: 17px;
+		line-height: 25px;
+	}
+	.media-area {
+		padding: 40px 0px;
+	}
+	.digital-left h3 {
+		font-size: 24px;
+	}
+	.digita-mar-area {
+		padding: 50px 0px;
+	}
+	.digital-btm-right h3 {
+		font-size: 28px;
+	}
+	.digital-btm-right h5 {
+		width: 100%;
+		line-height: 21px;
+		font-size: 15px;
+	}
+	.partner-content h3 {
+		width: 100%;
+		line-height: 23px;
+		font-size: 21px;
+	}
+	.partner-logo-area {
+		padding-top: 40px;
+	}
+	.amozon-logo ul li a img {
+		width: 85%;
+		height: auto;
+	}
+	.social-icon-logo {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.social-icon-logo ul li a img {
+		width: 28px;
+		height: auto;
+	}
+	.heading h3 {
+		font-size: 40px;
+	}
+	.contact-from form label {
+		font-size: 17px;
+	}
+	.checkbox-test p {
+		font-size: 16px;
+	}
+	.footer-area {
+		padding-top: 106px;
+		padding-bottom: 45px;
+	}
+	.top-fixed {
+		padding: 10px 20px;
+	}
+	.all-p-humber {
+		right: 36px;
+	}
+	.social-m-left h4{
+		font-size: 24px;
+	}
+	.u-s-right p {
+		font-size: 14px;
+	}
+	.seo-con.heading h3 {
+		font-size: 35px;
+	}
+	.seo-img {
+		-webkit-box-flex: 0;
+		    -ms-flex: 0 0 50%;
+		        flex: 0 0 50%;
+		margin: 0 auto;
+	}
+	.partner-content h3 {
+		font-size: 17px;
+	}
+	.digital-content h3 {
+		font-size: 26px;
+	}
+	.digital-content h5 {
+		font-size: 15px;
+		line-height: 21px;
+	}
+	.menu_itms ul {
+		top: 67px;
+	}
+	.social-m-left {
+		margin-top: 3px;
+	}
+	.heading h3 {
+		font-size: 35px;
+	}
+	.we-content h3 {
+		font-size: 23px !important;
+	}
+	.discover-left {
+		margin-bottom: 30px;
+		margin-top: 20px;
+	}
+	.partner-content h3 {
+		font-size: 15px;
+	}
+	.portt-con h3 {
+		font-size: 32px !important;
+	}
+
+}
+
+
+
+
+
+
+
